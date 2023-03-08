@@ -1,0 +1,3 @@
+﻿  practice2.1.c
+E:\CODE_C\practice\practice2.1\practice2.1\practice2.1.c(11,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  practice2.1.vcxproj -> E:\CODE_C\practice\practice2.1\x64\Debug\practice2.1.exe
