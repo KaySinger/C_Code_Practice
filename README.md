@@ -1,5 +1,6 @@
 # C_Code_Practice
-浙大版C语言练习
+浙大翁恺第4版C语言练习
+内部文件夹C_practice_review是对练习内容的回顾，使用浙大翁恺第3版C语言练习
 进入Cpractice各项.c文件即是本次练习的源码
 此次代码编译软件为Visual Studio 2022
 practice1.1 - 求m到n之间的和
