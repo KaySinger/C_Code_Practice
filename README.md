@@ -12,5 +12,9 @@ practice1.7 - 使用函数求素数和
 practice1.8 - 使用函数统计指定数字的个数
 practice1.9 - 使用函数输出水仙花数
 practice1.10 - 使用函数求余弦函数的近似值（泰勒公式）
-practice1.11 - 分类统计字符类型
-practice1.12
+practice1.11 - 空心的数字金字塔
+practice1.12 - 分类统计字符个数
+practice2.1 - 使用函数求特殊a串数列和
+practice2.2 - 使用函数输出指定范围内的完数
+practice2.3 - 使用函数输出指定范围内的Fibonacci数
+practice2.4 - 使用函数验证哥德巴赫猜想
