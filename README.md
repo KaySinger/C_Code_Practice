@@ -11,3 +11,6 @@ practice1.6 - 使用函数计算两点间的距离
 practice1.7 - 使用函数求素数和
 practice1.8 - 使用函数统计指定数字的个数
 practice1.9 - 使用函数输出水仙花数
+practice1.10 - 使用函数求余弦函数的近似值（泰勒公式）
+practice1.11 - 分类统计字符类型
+practice1.12
